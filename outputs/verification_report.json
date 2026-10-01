@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "dataset": "2024_fb_ads_president_scored_anon.csv",
+  "row_count": 246745,
+  "column_count": 41,
+  "group_records_checked": {
+    "grouped_by_page_id.jsonl.gz": 4475,
+    "grouped_by_page_id_ad_id.jsonl.gz": 246745
+  },
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-08,
+  "difference_count": 0,
+  "first_differences": []
+}

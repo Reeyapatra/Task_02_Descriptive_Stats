@@ -1,0 +1,17 @@
+# Input datasets
+data/
+2024_*_anon.csv
+
+# Python environments
+.venv/
+.venv_work/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large generated group reports
+outputs/**/*.jsonl.gz
+
+# Editor configuration
+.vscode/
